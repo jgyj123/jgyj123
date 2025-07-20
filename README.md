@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jonathan Goh
+# 👋 Hi, I'm Jonathan
 
-I'm a CS grad from NUS with 16 months of full-stack experience in healthtech and research. Im currently taking some time after graduation to focus on **cloud infrastructure** and **cybersecurity**.
+I recently graduated from NUS with 16 months of full-stack experience in healthtech and research. Currently, Im taking some time to focus on my cloud and security skills.
 
 ---
 
