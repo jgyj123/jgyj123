@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Jonathan Goh
 
-<!--
-**jgyj123/jgyj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS grad from NUS with 16 months of full-stack experience in healthtech and research. Im currently taking some time after graduation to focus on **cloud infrastructure** and **cybersecurity**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Current Focus
+- ☁️ Preparing for AWS Solutions Architect Professional certification
+- 🔐 Building offensive security skills through Hack The Box and practical labs
+- 🧪 Practicing ethical hacking on sites like TryHackMe and HackTheBox
+- 👨‍💻 Working on real-world projects to apply and expand these skills
+
+---
+
+## 🛠️ Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔐 [`file-vault`](https://github.com/jonathangoh/file-vault) | Secure file-sharing vault with IAM, signed URLs, audit trail. |
+| ♟ [`better-chess`](https://github.com/jonathangoh/better-chess) | Multiplayer chess app with chat + video calling, built during Orbital 2022. |
+| 🇰🇷 [`lak4202`](https://github.com/jonathangoh/lak4202) | Flashcard app used by Korean 6 students, reached 1.3k+ visits. |
+| 👨‍💻 [`peer-prep`](https://github.com/jonathangoh/peer-prep) | LeetCode-style collab platform with WebRTC + ChatGPT assistant. |
+
+---
+
+## 📜 Certs
+- AWS Security Specialty  
+- AWS Solutions Architect Associate  
+- AWS Developer Associate  
+- AWS Cloud Practitioner  
+
+---
+
+## 📫 Contact
+Drop me a message on Linkedin to connect!
+- [LinkedIn](https://www.linkedin.com/in/jonathan-2)  
