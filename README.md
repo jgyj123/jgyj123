@@ -6,7 +6,6 @@ Hi! Im Jonathan, a recent NUS Computer Science graduate with 16 months of full-s
 
 ## 🔧 Current Focus
 - Preparing for AWS Solutions Architect Professional certification
-- Building offensive security skills through Hack The Box and practical labs
 - Practicing ethical hacking on sites like TryHackMe and HackTheBox
 - Working on real-world projects to apply and expand these skills
 
