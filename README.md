@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jonathan
+# 👋Introduction
 
-I recently graduated from NUS with 16 months of full-stack experience in healthtech and research. Currently, Im taking some time to focus on my cloud and security skills.
+Hi! Im Jonathan, a recent NUS Computer Science graduate with 16 months of full-stack development experience in healthtech and research. Currently, I’m focused on sharpening my cloud infrastructure and cybersecurity skills to build secure, scalable solutions.
 
 ---
 
@@ -17,9 +17,9 @@ I recently graduated from NUS with 16 months of full-stack experience in healtht
 | Project | Description |
 |--------|-------------|
 | [`file-sharing-app`](https://github.com/jonathangoh/file-vault) | AWS Clous-native Secure file-sharing app I am currently working on |
-| [`SLIONS-Kids`](https://smcnus.comp.nus.edu.sg/video_page#SLIONS_KIDS-trailer) | AI-Powered Language learning app I built when I was a Research Assistant |
-| [`better-chess`](https://github.com/jonathangoh/better-chess) | Multiplayer chess app with chat + video calling, built during Orbital 2022. |
+| [`slions-kids`](https://smcnus.comp.nus.edu.sg/video_page#SLIONS_KIDS-trailer) | AI-Powered Chinese Language learning app built when I was working as a Research Assistant |
 | [`lak4202`](https://github.com/jonathangoh/lak4202) | Flashcard app used by Korean 6 students, reached 1.3k+ visits. |
+| [`better-chess`](https://github.com/jonathangoh/better-chess) | Multiplayer chess app with chat + video calling, built during Orbital 2022. |
 | [`peer-prep`](https://github.com/jonathangoh/peer-prep) | LeetCode-style collab platform with WebRTC + ChatGPT assistant. |
 
 ---
