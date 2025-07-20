@@ -39,4 +39,4 @@ Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-
 
 ## 📫 Contact
 Drop me a message on Linkedin to connect!
-- [LinkedIn](www.linkedin.com/in/jonathan-goh2)  
+- [LinkedIn](https://www.linkedin.com/in/jonathan-goh2/)  
