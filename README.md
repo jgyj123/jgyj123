@@ -4,7 +4,7 @@ Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgyj123&label=Profile%20views&color=brightgreen&style=flat" alt="jgyj123" /> </p>
-
+---
 ## 🔧 Current Focus
 - Preparing for AWS Solutions Architect Professional certification
 - Practicing ethical hacking on sites like TryHackMe and HackTheBox
