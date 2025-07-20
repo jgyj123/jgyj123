@@ -31,8 +31,8 @@ Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-
 - AWS Cloud Practitioner (Mar 2025) 
 - IBM Application Development Security (Mar 2025)
 
-- (Planned) AWS Solutions Architect Professional (Target: Dec 2025)
-- (Planned) Offensive Security Certified Professional (OSCP) (Target: 2026)
+(Planned) AWS Solutions Architect Professional (Target: Dec 2025)
+(Planned) Offensive Security Certified Professional (OSCP) (Target: 2026)
 
 ---
 
