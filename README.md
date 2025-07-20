@@ -1,6 +1,6 @@
 # 👋Introduction
 
-Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-stack development experience in healthtech and research. Currently, I’m focused on sharpening my cloud infrastructure and cybersecurity skills to build secure, scalable solutions.
+Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-stack development experience in healthtech and research. Currently, I’m focused on sharpening my cloud infrastructure and cybersecurity skills to build secure, scalable solutions. Currently targeting Cloud Engineer/Cloud Security Engineer roles. 
 
 ---
 
