@@ -24,11 +24,12 @@ Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-
 
 ---
 
-## 📜 Certs
+## 📜 Certifications
 - AWS Security Specialty  
 - AWS Solutions Architect Associate  
 - AWS Developer Associate  
-- AWS Cloud Practitioner  
+- AWS Cloud Practitioner
+- IBM Application Development Security
 
 ---
 
