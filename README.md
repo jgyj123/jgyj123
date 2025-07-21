@@ -2,8 +2,7 @@
 
 Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-stack development experience in healthtech and research. Currently, I’m taking some time to sharpen my cloud infrastructure and cybersecurity skills. Currently seeking roles as a Cloud Engineer or Cloud Security Engineer to contribute to building secure and scalable cloud solutions.
 
----
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgyj123&label=Profile%20views&color=brightgreen&style=flat" alt="jgyj123" /> </p>
 
 ## 🔧 Current Focus
 - Preparing for AWS Solutions Architect Professional certification
@@ -38,8 +37,9 @@ Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-
 
 ---
 
+
 ## 📫 Contact
 Drop me a message on Linkedin to connect!
 - [LinkedIn](https://www.linkedin.com/in/jonathan-goh2/)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgyj123&label=Profile%20views&color=brightgreen&style=flat" alt="jgyj123" /> </p>
+
