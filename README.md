@@ -1,11 +1,11 @@
 # 👋Introduction
 
-Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-stack development experience in healthtech and research. Currently, I’m taking some time to sharpen my cloud infrastructure and cybersecurity skills. Currently seeking roles as a Cloud Engineer or Cloud Security Engineer to contribute to building secure and scalable cloud solutions.
+Hi, I'm Jonathan — a recent NUS Computer Science graduate with 16 months of full-stack experience in healthtech and research. I'm currently expanding my skills in cloud infrastructure and cybersecurity.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgyj123&label=Profile%20views&color=brightgreen&style=flat" alt="jgyj123" /> </p>
 
 ## 🔧 Current Focus
-- Preparing for AWS Solutions Architect Professional certification
+- Preparing for OSCP
 - Practicing ethical hacking on sites like TryHackMe and HackTheBox to build cybersecurity foundation
 - Working on real-world projects to apply and expand these skills
 
@@ -32,9 +32,8 @@ Hi! I'm Jonathan, a recent NUS Computer Science graduate with 16 months of full-
 - IBM Application Development Security (Mar 2025)
 
 ## 🔭 Upcoming Certifications
-- AWS Solutions Architect Professional — Target: Dec 2025
-- Offensive Security Certified Professional (OSCP) — Target: 2026
-
+- Offensive Security Certified Professional (OSCP) — Target: 2025
+- AWS Solutions Architect Professional — Target: 2026
 ---
 
 
