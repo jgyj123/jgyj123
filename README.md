@@ -14,7 +14,7 @@ Hi, I'm Jonathan — a recent NUS Computer Science graduate with 16 months of fu
 | Project | Description |
 |--------|-------------|
 | [`file-sharing-app`](https://github.com/jgyj123/file-sharing-app) | A personal project to explore and practice cloud security concepts on AWS. Currently in Progress. |
-| [`slions-kids`](https://smcnus.comp.nus.edu.sg/video_page#SLIONS_KIDS-trailer) | AI-powered Chinese language learning app I built while working as a research assistant at NUS. |
+| [`slions-kids`](https://smcnus.comp.nus.edu.sg/video_page#SLIONS_KIDS-trailer) | AI-powered Chinese language learning app I built as a research assistant, used in 20+ research sessions. |
 | [`lak4202`](https://github.com/jgyj123/lak4202) | Flashcard app used by Korean 6 students, reached 1.3k+ visits/month. |
 | [`better-chess`](https://github.com/jgyj123/better-chess) | Multiplayer chess app with real-time chat and video calling. Orbital 2022 Apollo-11 (Advanced) Award. |
 | [`peer-prep`](https://github.com/jgyj123/peer-prep) | LeetCode-style collab platform with WebRTC + ChatGPT assistant. |
