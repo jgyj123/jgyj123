@@ -1,6 +1,6 @@
 # 👋Introduction
 
-Hi, I'm Jonathan — a recent NUS Computer Science graduate with 16 months of full-stack experience in healthtech and research. I'm currently expanding my skills in cloud infrastructure and cybersecurity.
+Hi, I'm Jonathan — a recent NUS Computer Science graduate with 16 months of full-stack experience in healthtech and research. I'm currently expanding my skills in cloud infrastructure and security.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgyj123&label=Profile%20views&color=brightgreen&style=flat" alt="jgyj123" /> </p>
 
