@@ -4,11 +4,6 @@ Hi, I'm Jonathan — a recent NUS Computer Science graduate with 16 months of fu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgyj123&label=Profile%20views&color=brightgreen&style=flat" alt="jgyj123" /> </p>
 
-## 🔧 Current Focus
-- Working on my file sharing app to build my hands-on cloud and security skills
-- Practicing ethical hacking on sites like TryHackMe and HackTheBox to build cybersecurity foundation
----
-
 ## 🛠️ My Projects
 
 | Project | Description |
